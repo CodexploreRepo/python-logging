@@ -1,13 +1,13 @@
 # Logger
 
-- There are six levels for logging in Python; each level is associated with an integer that indicates the log severity:
+- There are six levels for logging in Python & each level is associated with an integer that indicates the log severity:
   - `NOTSET=0`
   - `DEBUG=10`
   - `INFO=20`
   - `WARN=30`
   - `ERROR=40`
   - `CRITICAL=50`
-    <img src='./img/logger_level.png'>
+  <p align="center"><img src='./img/logger_level.png'></p>
 
 ## Logger hierarchy
 
